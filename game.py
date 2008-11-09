@@ -42,6 +42,7 @@ def on_draw():
   omppu.draw()
   hantaKuvat.draw()
   kaarme.draw()
+  pyglet.text.Label("%d" % (pituus - 20), font_size = 32, x = 10, y = 10).draw()
 
 @pyglet.clock.schedule
 def update(dt):
