@@ -48,7 +48,11 @@ hantaOsat = pyglet.graphics.Batch()
 omppu.position = random.random() * 500, random.random() * 300
 
 # Ladataan ‰‰niefektit ja musiikki
-efekti = pyglet.media.load('efekti1.ogg', streaming = False)
+efektit = [
+    pyglet.media.load('efekti1.ogg', streaming = False),
+    pyglet.media.load('efekti2.ogg', streaming = False),
+    pyglet.media.load('efekti3.ogg', streaming = False),
+]
 musiikki = pyglet.media.load('menuman.ogg')
 
 # Laitetaan musiikki soimaan
@@ -115,7 +119,8 @@ def update(dt):
      mato.x < omppu.x + omppu.width and mato.y < omppu.y + omppu.height:
     omppu.position = random.random() * 500, random.random() * 300
     pituus += 20
-    efekti.play()
+    # Soitetaan satunnainen ‰‰niefekti
+    random.choice(efektit).play()
 
 # K‰ynnistet‰‰n pelimoottori
 pyglet.app.run()
