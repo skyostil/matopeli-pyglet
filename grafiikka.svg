@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46"
-   sodipodi:docname="pallo.svg"
+   sodipodi:docname="grafiikka.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      id="base"
@@ -26,16 +26,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="76.873579"
-     inkscape:cy="990.55439"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="904.5275"
+     inkscape:cy="869.68436"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1250"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0" />
+     inkscape:window-x="660"
+     inkscape:window-y="88" />
   <defs
      id="defs4">
     <pattern
@@ -2626,5 +2626,14 @@
        inkscape:export-filename="/home/skyostil/proj/pyglet-lecture/pallo.png"
        inkscape:export-xdpi="13"
        inkscape:export-ydpi="13" />
+    <path
+       sodipodi:nodetypes="cszc"
+       id="path2652"
+       d="M 211.81526,158.51042 C 202.03411,166.83147 210.61344,82.643411 182.00279,72.754355 C 148.22018,61.077648 167.79156,50.127458 186.29512,40.017152 C 204.79868,29.906846 244.99991,132.11592 211.81526,158.51042 z"
+       style="fill:#780000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.23900032;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter4246);enable-background:accumulate"
+       transform="matrix(1.7327229,0,0,-1.7280502,-73.474094,242.4821)"
+       inkscape:export-filename="/home/skyostil/proj/pyglet-lecture/omppu.png"
+       inkscape:export-xdpi="14"
+       inkscape:export-ydpi="14" />
   </g>
 </svg>
