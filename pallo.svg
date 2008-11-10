@@ -375,14 +375,14 @@
        style="fill:#400000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.53899956;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.40825688;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter15300);enable-background:accumulate"
+       style="opacity:0.40825686;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter15300);enable-background:accumulate"
        id="path15110"
        sodipodi:cx="-139"
        sodipodi:cy="61.362209"
        sodipodi:rx="87"
        sodipodi:ry="31"
        d="M -52,61.362209 A 87,31 0 1 1 -226,61.362209 A 87,31 0 1 1 -52,61.362209 z"
-       transform="matrix(1.4627364,0,0,1.4627364,402.57841,89.260646)"
+       transform="matrix(1.4627364,0,0,1.4627364,400.57841,89.260646)"
        inkscape:export-filename="/home/skyostil/proj/pyglet-lecture/omppu.png"
        inkscape:export-xdpi="14"
        inkscape:export-ydpi="14" />
@@ -392,15 +392,15 @@
        inkscape:export-filename="/home/skyostil/proj/pyglet-lecture/omppu.png"
        sodipodi:nodetypes="czczzzc"
        id="path4022"
-       d="M 267.53574,189.47852 C 244.08428,209.80376 233.38536,173.70106 200.53627,175.09872 C 167.68714,176.49635 153.58815,206.82572 131.37463,188.34421 C 55.083684,135.40009 16.562429,-29.267081 102.35148,-66.249401 C 188.14054,-103.23172 141.24248,-45.227662 186.67446,-45.227662 C 232.10644,-45.227662 219.4758,-103.03093 296.12191,-61.929229 C 372.29238,-21.08259 334.21582,122.1451 267.53574,189.47852 z"
+       d="M 265.53574,189.47852 C 242.08428,209.80376 231.38536,173.70106 198.53627,175.09872 C 165.68714,176.49635 151.58815,206.82572 129.37463,188.34421 C 53.083684,135.40009 14.562429,-29.267081 100.35148,-66.249401 C 186.14054,-103.23172 139.24248,-45.227662 184.67446,-45.227662 C 230.10644,-45.227662 217.4758,-103.03093 294.12191,-61.929229 C 370.29238,-21.08259 332.21582,122.1451 265.53574,189.47852 z"
        style="fill:#bb0000;fill-opacity:1;fill-rule:nonzero;stroke:#800000;stroke-width:14.23899937;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:export-ydpi="14"
        inkscape:export-xdpi="14"
        inkscape:export-filename="/home/skyostil/proj/pyglet-lecture/omppu.png"
-       transform="matrix(-1.7327229,0,0,1.7280502,448.19062,-112.1592)"
+       transform="matrix(-1.7327229,0,0,1.7280502,441.94798,-116.40184)"
        style="fill:#ff6767;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.23900032;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter4246);enable-background:accumulate"
-       d="M 196.21586,137.1742 C 186.43471,145.49525 213.08601,76.774291 184.47536,66.885235 C 150.69275,55.208528 167.79156,50.127458 186.29512,40.017152 C 204.79868,29.906846 229.40051,110.7797 196.21586,137.1742 z"
+       d="M 186.4217,152.72355 C 176.64055,161.0446 196.76241,84.958159 168.15176,75.069103 C 134.36915,63.392396 167.79156,50.127458 186.29512,40.017152 C 204.79868,29.906846 219.60635,126.32905 186.4217,152.72355 z"
        id="path4160"
        sodipodi:nodetypes="cszc" />
     <rect
