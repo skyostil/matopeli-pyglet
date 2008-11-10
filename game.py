@@ -58,7 +58,7 @@ def update(dt):
     if osa.visible and i < len(hanta) - 30 and \
        kaarme.x > osa.x - 16 and kaarme.y > osa.y - 16 and \
        kaarme.x < osa.x + 16 and kaarme.y < osa.y + 16:
-      print "Kuolit! %d pistettä" % (pituus - 20)
+      print "Kuolit! %d pojoa" % (pituus - 20)
       win.close()
       break
 
